@@ -16,3 +16,5 @@ This is the project you get when you run `gridsome create new-project`.
 ## So schaut es dann aus:
 
 ![](./static/thb-git-preview.png)
+
+Hallo THB!
